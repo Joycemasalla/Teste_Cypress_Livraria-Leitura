@@ -1,0 +1,13 @@
+CONFIGURAÇÃO CYPRESS
+npm init --yes
+npm install cypress
+npx cypress open
+
+Navegação Principal:
+Verificar se a home page carrega corretamente.
+Testar links de navegação (ex: categorias, ofertas, etc.).
+Verificar se os breadcrumbs funcionam corretamente.
+
+Pesquisa:
+Testar se a funcionalidade de pesquisa retorna resultados relevantes.
+Verificar diferentes pesquisas.
